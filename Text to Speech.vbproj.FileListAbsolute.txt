@@ -1,0 +1,13 @@
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\Text to Speech.vbprojResolveAssemblyReference.cache
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\Text to Speech.vbproj.GenerateResource.Cache
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\Text to Speech.vbproj.CoreCompileInputs.cache
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+G:\Visual Basic .net\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
